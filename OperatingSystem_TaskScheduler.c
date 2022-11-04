@@ -1,12 +1,5 @@
 //-----------------------------------------
-// NAME: Ariel Glikman 
-// STUDENT NUMBER: 7806386
-// COURSE: COMP 3430, SECTION: A01
-// INSTRUCTOR: Franklin Bristow
-// ASSIGNMENT: 3, QUESTION: 1
-// 
 // THIS IMPLEMENTS BOTH SHORTEST JOB FIRST (SJF) AND MULTI-LEVEL-FEEDBACK-QUEUE (MLFQ) SCHEDULING POLICIES
-//
 //-----------------------------------------
 
 #include <stdlib.h>
